@@ -2,13 +2,230 @@ body{
 	/*background-image:url(../../images/meet-the-cast-bg.png);*/
 }
 
+.reefic_protocol_container{
+	background:#4d1351;
+}
+
+.reefic_protocol{
+	color : #fff;
+	font-size: 60px;
+	font-weight: 600;
+}
+
+.btn-protocol{
+	background: #9bc64f;
+	color: #5d1a62;
+	border-radius: 0;
+	text-transform: uppercase;
+}
+
 .fist_page_button{
 	background: rgb(155,198,79);
-	font-size: 
+	font-size:
 }
 
 .token_generation{
 	color: rgb(90,31,95);
 	background-image:url(../../images/token-generation-bg.png);
-	/*background-size:100% 100%;*/
-}	
+	padding: 10%;
+}
+
+.token_generation_event{
+	color : #5a1f5f;
+	font-size: 60px;
+	font-weight: 600;
+}
+
+
+.token_duration{
+	font-family: 'Montserrat';
+	font-size: 72px;
+	font-weight: 100;
+	color: #7e5683;
+	/* margin-bottom: 10px; */
+	/* padding: 10% */
+}
+
+.token_period{
+	font-family: 'Montserrat';
+	font-size: 18px;
+	font-weight: 400;
+	color: #7e5683;
+}
+
+.description{
+	font-family: 'Roboto';
+	font-size:24px;
+	font-weight: 500;
+	color: #a0a1a2;
+}
+
+.token_details{
+	color:#777777;
+}
+
+.first_row{
+	border: 1px solid #d5d5d5;
+  background: #d5d5d5;
+  /* height: 40px; */
+  padding: 7px;
+}
+
+.second_row{
+	border: 1px solid #fff;
+  background: #fff;
+  /* height: 40px; */
+  padding: 7px;
+	/* color:#000; */
+}
+
+.rft{
+	text-align: right;
+}
+
+.card{
+  	/* width: 250px; */
+}
+
+
+.sale_heading, .sale_footer{
+	background: #5a1f5f;
+	color:#fff;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.sale_body{
+	background: #8d4893;
+	color:#fff;
+	text-align: center;
+}
+
+.line{
+	border-bottom: 1px solid #5a1f5f;
+}
+
+.register{
+	padding: 9px;
+}
+
+.btn-register{
+	background: #5a1f5f;
+	color: #fff;
+	border-radius: 0;
+	text-transform: uppercase;
+}
+
+
+img.token_allocation,img.use_of_proceeds{
+	width: 85%;
+}
+
+.dot{
+	display: inline-block;width: 10px;height: 10px;border-radius: 0;
+}
+
+.dot-pre-sale{
+	background: #0e4b75;
+}
+
+.opportunity{
+	font-family: 'Roboto';
+	font-size: 60px;
+	font-weight: 600;
+	color:#5a1f5f;
+	text-transform: uppercase;
+}
+
+
+/* Implementataion Roadmap */
+.implementation_roadmap{
+	background-image:url(../../images/implementation-roadmap-bg.png);
+	background-size : 100% 100%;
+	overflow: hidden;
+}
+
+.q4{
+	background:#9bc64f;
+}
+
+.q1-text,.q2-text,.q4-text{
+	padding:10px;
+}
+
+.q1,.q2{
+	background:#e5e5e5;
+}
+
+text{
+	font-size:36px;
+}
+
+img.benefits{
+	width: 70%;
+}
+
+.benefits, .protocol_updates_header{
+		font-family: 'Montserrat';
+		font-size: 36px;
+		font-weight: 600;
+		color:#5a1f5f;
+		text-transform: uppercase;
+}
+
+.benefits_card{
+	border:0;
+	/* width: 70%; */
+}
+
+.protocol_updates{
+	/* background: #dcdcdc; */
+	background-image:url(../../images/implementation-roadmap-bg.png);
+	background-size: 100% 100%;
+}
+
+.margin_top_position{
+	margin: 5rem 0;
+}
+
+.protocol_updates_position{
+	padding: 8%;
+}
+
+.btn-event{
+	background: #5a1f5f;
+	color: #fff;
+	border-radius: 0;
+	text-transform: uppercase;
+	margin-bottom: 71px;
+}
+
+.img_layer{
+	position: absolute;
+    top: 10px;
+    right: 22px;
+    width: 20%;
+    height: 11%;
+    padding: 3px;
+    text-align: center;
+}
+
+.primary_color{
+	color:#5a1f5f;
+}
+
+.protocol_explained{
+	background-image:url(../../images/meet-the-cast-bg.png);
+	background-size: 100% 100%;
+}
+
+.social{
+	border-radius:50%;
+	background:#000;
+	width: 50px;
+	height: 50px;
+}
+
+.social_icon{
+	font-size: 30px;
+}

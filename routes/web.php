@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('reefic-home');
+    return view('front-end.reefic-home');
 });
