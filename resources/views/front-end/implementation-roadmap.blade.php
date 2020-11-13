@@ -35,9 +35,9 @@
         </div>
     </div>
 
-    <div class="row offset-md-5 my-4 mb-2">
-				<div class="col-sm-2"><button type="submit" class="btn btn-register">WhitePaper</button></div>
-				<div class="col-sm-2"><button type="submit" class="btn btn-register">One pager</button></div>
-		</div>
+    <center class="my-4">
+      <button type="submit" class="btn btn-register">Whitelist</button>
+      <button type="submit" class="btn btn-register">Bounty</button>
+    </center>
 
 </div>

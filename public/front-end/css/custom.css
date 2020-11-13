@@ -8,7 +8,7 @@ body{
 }
 
 .reefic_protocol_container{
-	background:#4d1351;
+	background:#a158a6;
 }
 
 .reefic_protocol{
@@ -32,7 +32,8 @@ body{
 .token_generation{
 	color: rgb(90,31,95);
 	background-image:url(../../images/token-generation-bg.png);
-	/* padding: 10%; */
+	/* background-image:url(../../images/implementation-roadmap-bg.png); */
+	/* background-size: 100% 100%; */
 }
 
 .token_generation_event{
@@ -134,7 +135,7 @@ img.token_allocation,img.use_of_proceeds{
 
 .opportunity{
 	font-family: 'Roboto';
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 600;
 	color:#5a1f5f;
 	text-transform: uppercase;
@@ -205,7 +206,7 @@ img.benefits{
 }
 
 .img_layer{
-	position: absolute;
+	  position: absolute;
     top: 10px;
     right: 22px;
     width: 20%;
@@ -235,6 +236,15 @@ img.benefits{
 	color: #359da7;
 }
 
+.register_social_icon{
+	font-size: 30px;
+	color: #5a1f5f;
+}
+
+.register_social{
+		margin-left:38%;
+}
+
 .meet_the_cast{
 	background-image:url(../../images/meet-the-cast-bg.png);
 	background-size: 100% 100%;
@@ -243,4 +253,58 @@ img.benefits{
 
 .nav-color{
 	color:#000;
+}
+
+
+/*flip image */
+/* entire container, keeps perspective */
+.flip-container {
+	/* perspective: 1000px; */
+}
+	/* flip the pane when hovered */
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+/* .flip-container, .front, .back {
+	width: 320px;
+	height: 480px;
+} */
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+
+
+
+/*responsive */
+@media only screen and (max-width: 600px) {
+	.img_layer{
+			right: 145px;
+	}
 }

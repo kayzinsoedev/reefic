@@ -1,42 +1,43 @@
-<nav class="navbar navbar-expand-lg text-white" style="background:#4d1351;">
-  <img class="" src="{{asset('images/logo.png')}}" width="130">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+<nav class="navbar navbar-light navbar-expand-md justify-content-md-center justify-content-start" style="background:#a158a6;">
+    <button class="navbar-toggler ml-1" type="button" data-toggle="collapse" data-target="#collapsingNavbar2">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
+        <ul class="navbar-nav mx-auto text-md-center text-left">
+            <li class="nav-item">
+                <img class="" src="{{asset('images/logo.png')}}" width="100">
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">PRODUCT</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">TOKEN SALE</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">TEAM</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">FAQ</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">CONTACT</a>
+            </li>
+            <li class="nav-item">
+                <a class="btn btn-outline-light nav-link text-white" href="#">WHITEPAPER</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">SIGN IN</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdownMenuLink" data-toggle="	dropdown" aria-haspopup="true" aria-expanded="false">
+                    EN
+                </a>
+            </li>
+        </ul>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item ">
-        <a class="nav-link text-white" href="#">PRODUCT</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-white" href="#">TOKEN SALE</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-white" href="#">TEAM</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-white" href="#">FAQ</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-white" href="#">CONTACT</a>
-      </li>
-      <li class="nav-item">
-        <a class="btn btn-outline-info nav-link text-white" href="#">WHITEPAPER</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-white" href="#">SIGN IN</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdownMenuLink" data-toggle="	dropdown" aria-haspopup="true" aria-expanded="false">
-            EN
-        </a>
-      </li>
-
-    </ul>
-
-  </div>
+    </div>
 </nav>
+
 
 <div class="container-fluid reefic_protocol_container">
   <h3 class="text-center text-uppercase reefic_protocol"> Have a reefic day!</h3>

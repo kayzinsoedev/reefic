@@ -1,20 +1,5 @@
-<div class="col-md-12 token_generation p-5">
-			<p class="text-center text-uppercase token_generation_event p-5">Token Generation Event</p>
-			<!-- <div class="col-md-6 offset-md-3">
-					<div class="row token_duration">
-							<div class="col-sm ">28</div>
-							<div class="col-sm ">17</div>
-							<div class="col-sm ">48</div>
-							<div class="col-sm ">56</div>
-					</div>
-					<div class="row token_period">
-							<div class="col-sm ">Days</div>
-							<div class="col-sm ">Hours</div>
-							<div class="col-sm ">Minutes</div>
-							<div class="col-sm ">Seconds</div>
-					</div>
-			</div> -->
-
+<div class="container-fluid token_generation">
+			<p class="text-center text-uppercase token_generation_event">Token Generation Event</p>
 			<center>
 	        <div class="col-md-8 offset-md-3 my-4">
 	           <div class="row">
@@ -230,10 +215,11 @@
 
 
 		<div class="container">
-				<p class="opportunity">Don't Miss the opportunity!</p>
+				<p class="opportunity text-center">Don't Miss the opportunity!</p>
 				<center>
 					<button type="submit" class="btn btn-register">Register Now</button>
 				</center>
 		</div>
+
 
 </div>
