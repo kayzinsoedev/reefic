@@ -1,6 +1,7 @@
 <div class="container">
-    <h3 class="text-center text-uppercase primary_color my-5">Reefic Press Releases</h3>
+    <h3 class="text-center text-uppercase primary_color">Reefic Press Releases</h3>
     <div class="row">
+      <!-- <a href="#"><i class="nav-arrow fa fa-angle-left text-dark" style="font-size:2em;"></i></a> -->
       <div class="col-lg-4">
           <div class="card">
               <div class="card-body">
@@ -28,7 +29,10 @@
               </div>
           </div>
       </div>
+      <!-- <a href="#"><i class="nav-arrow fa fa-angle-right text-dark" style="font-size:2em;"></i></a> -->
     </div>
+
+
 
     <center>
       <button type="submit" class="btn btn-register my-4 mb-4">More Releases</button>
