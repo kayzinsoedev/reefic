@@ -1,5 +1,5 @@
 <div class="col-md-12">
-    <div class="row">
+    <div class="row my-4">
         <div class="col-sm-4 offset-md-2">
           <div class="card benefits_card" style="">
             <div class="card-body">

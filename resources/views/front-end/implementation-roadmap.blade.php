@@ -3,7 +3,7 @@
 		<h3 class="text-uppercase text-center primary_color">Implementataion Roadmap</h3>
     <div class="margin_top_position"></div>
     <div class="col-md-6 offset-md-3">
-        <div class="row q4">
+        <div class="row q4 mb-3">
           <div class="col-md-1">
             <b><text>Q4</text><br>2018</b>
           </div>
@@ -12,8 +12,8 @@
               solution providers to integrate.
             </div>
         </div>
-        <br>
-        <div class="row q1">
+
+        <div class="row q1 mb-3">
           <div class="col-md-1">
             <b><text>Q1</text><br>2019</b>
           </div>
@@ -22,8 +22,8 @@
             Attains 300 strong merchant sign up through solution providers and other partnerships.X
             </div>
         </div>
-        <br>
-        <div class="row q2">
+
+        <div class="row q2 mb-4">
           <div class="col-md-1">
             <b><text>Q2</text><br>2019</b>
           </div>
@@ -34,11 +34,10 @@
           </div>
         </div>
     </div>
-    <br>
-		<div class="col-md-6 offset-md-5">
-				<div class="row">
-						<div class="col-sm-2"><button type="submit" class="btn btn-register">WhitePaper</button></div>
-						<div class="col-sm-2"><button type="submit" class="btn btn-register">One pager</button></div>
-				</div>
+
+    <div class="row offset-md-5 my-4 mb-2">
+				<div class="col-sm-2"><button type="submit" class="btn btn-register">WhitePaper</button></div>
+				<div class="col-sm-2"><button type="submit" class="btn btn-register">One pager</button></div>
 		</div>
+
 </div>

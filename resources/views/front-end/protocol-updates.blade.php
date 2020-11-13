@@ -1,7 +1,7 @@
 <div class="container-fluid protocol_updates">
     <div class="col-md-8 offset-md-2">
         <div class="protocol_updates_position">
-        <h3 class="text-center protocol_updates_header">Reefic Protocol Updates</h3>
+        <h3 class="text-center protocol_updates_header my-4">Reefic Protocol Updates</h3>
         <h4 class="text-center primary_color">Stay up-to-date with the current news</h4>
         </div>
         <div class="row">

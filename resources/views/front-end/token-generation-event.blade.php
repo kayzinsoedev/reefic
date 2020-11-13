@@ -1,6 +1,6 @@
-<div class="col-md-12 token_generation">
-			<p class="text-center text-uppercase token_generation_event">Token Generation Event</p>
-			<div class="col-md-6 offset-md-3">
+<div class="col-md-12 token_generation p-5">
+			<p class="text-center text-uppercase token_generation_event p-5">Token Generation Event</p>
+			<!-- <div class="col-md-6 offset-md-3">
 					<div class="row token_duration">
 							<div class="col-sm ">28</div>
 							<div class="col-sm ">17</div>
@@ -13,12 +13,42 @@
 							<div class="col-sm ">Minutes</div>
 							<div class="col-sm ">Seconds</div>
 					</div>
-			</div>
+			</div> -->
 
-			<br>
-			<p class="text-center description">To achieve its platform vision, Reefic Protocol is looking to the <br>cryptocurrency community to support this movement</p>
+			<center>
+	        <div class="col-md-8 offset-md-3 my-4">
+	           <div class="row">
+	               <div class="col-lg-2">
+	                   <div style="display:block;">
+	                       <div class="col-sm token_duration">28</div>
+	                       <span class="text-uppercase token_period">Days</span>
+	                   </div>
+	               </div>
+	               <div class="col-lg-2">
+	                   <div style="display:block;">
+	                       <div class="col-sm token_duration">17</div>
+	                       <span class="text-uppercase token_period">Hours</span>
+	                   </div>
+	               </div>
+	               <div class="col-lg-2">
+	                   <div style="display:block;">
+	                       <div class="col-sm token_duration">48</div>
+	                       <span class="text-uppercase token_period">Minutes</span>
+	                   </div>
+	               </div>
+	               <div class="col-lg-2">
+	                   <div style="display:block;">
+	                       <div class="col-sm token_duration">56</div>
+	                       <span class="text-uppercase token_period">Seconds</span>
+	                   </div>
+	               </div>
+	           </div>
+	        </div>
+	    </center>
 
-			<div class="col-md-8 offset-md-2 token_details">
+			<p class="text-center description mb-4">To achieve its platform vision, Reefic Protocol is looking to the <br>cryptocurrency community to support this movement</p>
+
+			<div class="col-md-8 offset-md-2 token_details mb-5">
 				<div class="container">
 						<div class="row first_row">
 								<div class="col-sm">Total Token Supply</div>
@@ -58,8 +88,8 @@
 						</div>
 				</div>
 			</div>
-			<br>
-			<div class="col-md-8 offset-md-2">
+
+			<div class="col-md-8 offset-md-2 mb-4">
 			<!-- <div class="container"> -->
 					<div class="row">
 							<div class="col-lg-4">
@@ -115,9 +145,7 @@
 			<!-- </div> -->
 		</div>
 
-		<br>
-
-		<div class="col-md-10 offset-md-2">
+		<div class="col-md-10 offset-md-2 mb-4">
 				 <div class="row">
 					 <div class="col-sm-7 register">
 						 	<p class="text-center">Don’t miss your chance to get more Reefic tokens!</p>
@@ -207,6 +235,5 @@
 					<button type="submit" class="btn btn-register">Register Now</button>
 				</center>
 		</div>
-
 
 </div>

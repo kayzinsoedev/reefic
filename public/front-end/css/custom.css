@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
 body{
 	/*background-image:url(../../images/meet-the-cast-bg.png);*/
+}
+
+.nav-color{
+		color:#fff;
 }
 
 .reefic_protocol_container{
@@ -27,7 +32,7 @@ body{
 .token_generation{
 	color: rgb(90,31,95);
 	background-image:url(../../images/token-generation-bg.png);
-	padding: 10%;
+	/* padding: 10%; */
 }
 
 .token_generation_event{
@@ -42,8 +47,6 @@ body{
 	font-size: 72px;
 	font-weight: 100;
 	color: #7e5683;
-	/* margin-bottom: 10px; */
-	/* padding: 10% */
 }
 
 .token_period{
@@ -142,7 +145,8 @@ img.token_allocation,img.use_of_proceeds{
 .implementation_roadmap{
 	background-image:url(../../images/implementation-roadmap-bg.png);
 	background-size : 100% 100%;
-	overflow: hidden;
+	/* overflow: hidden; */
+	padding: 7%;
 }
 
 .q4{
@@ -222,16 +226,21 @@ img.benefits{
 .social{
 	border-radius:50%;
 	background:#fff;
-	width: 50px;
-	height: 50px;
+	width: 46px;
+	height: 46px;
 }
 
 .social_icon{
 	font-size: 30px;
+	color: #359da7;
 }
-
 
 .meet_the_cast{
 	background-image:url(../../images/meet-the-cast-bg.png);
 	background-size: 100% 100%;
+}
+
+
+.nav-color{
+	color:#000;
 }

@@ -1,4 +1,4 @@
-<div class="col-md-8 offset-md-2">
+<div class="col-md-8 offset-md-2 my-3">
     <h4 class="text-center text-uppercase primary_color">Partnerships</h3>
     <div class="row">
         <div class="col-sm">
