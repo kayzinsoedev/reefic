@@ -16,8 +16,8 @@ If you use https, use this instead
 git clone https://github.com/kayzinsoedev/reefic.git
 ```
 
-After cloning,locatae to the project director and run:
-
+After cloning, locate to the project directory and run:
+ 
 ```bash
 composer install
 ```
