@@ -11,7 +11,7 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 
-app/Exceptions/Handler.php
-app/Exceptions/Handler_bk.php
-composer.json
-composer.lock
+# app/Exceptions/Handler.php
+# app/Exceptions/Handler_bk.php
+# composer.json
+# composer.lock
