@@ -26,7 +26,7 @@
                    </div>
                </div>
                <div class="form-group">
-                   <div class="row p-5">
+                   <div class="row mb-3">
                        <div class="col-md-6"><div class="g-recaptcha" data-sitekey="6LfHEOIZAAAAAKeEHj6WkXs_uXG7w13eQ7U3Mi5N"></div></div>
                        <div class="col-md-6"><button type="submit" class="btn btn-protocol">Submit Now</button></div>
                    </div>

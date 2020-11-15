@@ -33,13 +33,14 @@ body{
 	color: rgb(90,31,95);
 	background-image:url(../../images/token-generation-bg.png);
 	/* background-image:url(../../images/implementation-roadmap-bg.png); */
-	/* background-size: 100% 100%; */
+	 background-size: 100% 100%; 
+	 padding: 45px;
 }
+
 
 .token_generation_event{
 	color : #5a1f5f;
-	font-size: 60px;
-	font-weight: 600;
+	font-size: 50px;
 }
 
 
@@ -133,10 +134,9 @@ img.token_allocation,img.use_of_proceeds{
 	background: #0e4b75;
 }
 
-.opportunity{
+.opportunity p{
 	font-family: 'Roboto';
-	font-size: 50px;
-	font-weight: 600;
+	font-size: 45px;
 	color:#5a1f5f;
 	text-transform: uppercase;
 }

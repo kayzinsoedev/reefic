@@ -18,7 +18,7 @@
 @include('front-end.benefits')
 
 <!-- Token Generation -->
-{{--@include('front-end.token-generation-event')--}}
+@include('front-end.token-generation-event')
 
 <!-- Implementataion roadmap -->
 @include('front-end.implementation-roadmap')

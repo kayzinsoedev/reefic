@@ -1,5 +1,5 @@
 <div class="container-fluid token_generation">
-			<p class="text-center text-uppercase token_generation_event">Token Generation Event</p>
+			<p class="text-uppercase text-center token_generation_event">Token Generation Event</p>
 			<center>
 	        <div class="col-md-8 offset-md-3 my-4">
 	           <div class="row">
@@ -214,12 +214,12 @@
 		</div>
 
 
-		<div class="container">
-				<p class="opportunity text-center">Don't Miss the opportunity!</p>
+		<div class="container opportunity">
+				<p class="text-center" style="">Don't Miss the opportunity!</p>
 				<center>
 					<button type="submit" class="btn btn-register">Register Now</button>
 				</center>
 		</div>
-
+		
 
 </div>
